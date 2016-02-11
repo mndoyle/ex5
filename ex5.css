@@ -1,0 +1,90 @@
+html {
+    background: #fcf7e3;
+}
+
+header {
+    font-family: 'Poiret One', cursive;
+    text-align: center;
+    margin-top:50px;
+    color: #344050;
+    font-size: 20px;
+
+}
+
+hr {
+    margin-top: 10px;
+    color: #344050;;
+    width: 400px;
+}
+
+#bag {
+    width: 400px;
+    font-size: 20px;
+    padding: 15px;
+    position:absolute;
+    top: 190px;
+    left: 45%;
+    background: #344050;
+    font-family: 'Poiret One', cursive;
+    border-radius: 20px;
+    color: #344050;
+    
+    
+}
+
+#bag h1{
+    text-align:center;
+    background: #344050;
+    color: white;
+    font-family: 'Poiret One', cursive;
+}
+
+
+#products h1 {
+    font-family: 'Poiret One', cursive;
+    background: none;
+    color: #344050;
+    text-align: center;
+    width: 300px;
+    margin-left: 70px;
+    margin-top:100px;
+    font-size: 28px;
+    
+}
+
+h2 {
+    visibility: hidden;
+
+}
+
+section #catalog ul li {
+    list-style-type: none;
+    
+}
+
+section #deli {
+    margin-top: -32px;
+}
+section #pub {
+    position: absolute;
+    top: 242px;
+    left: 200px;
+    
+}
+
+section #iceCream {
+    position: absolute;
+    top: 460px;
+    left: 200px;
+    
+}
+
+section #catalog ul li p{
+    font-family: 'Poiret One', cursive;
+    color: #344050;
+    text-align: center;
+    margin-left: 25px;
+    font-size: 20px;
+    width: 100px;
+}
+
