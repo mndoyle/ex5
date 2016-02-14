@@ -90,3 +90,8 @@ section #catalog ul li p{
     width: 100px;
 }
 
+
+h5 {
+    position: absolute;
+    visibility: hidden;
+}
